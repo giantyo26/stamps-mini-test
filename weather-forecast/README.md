@@ -9,4 +9,4 @@ pip install -r requirements.txt
 python weather_forecast.py
 ```
 ## Output
-![screenshot](forecast_screenshot.png)
+![screenshot](forecast_screenshot.jpg)
